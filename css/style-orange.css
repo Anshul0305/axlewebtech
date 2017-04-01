@@ -78,7 +78,7 @@ ul{list-style:none}
         color: #555555;
     }
 
-    -moz-selection { background: #23abf1; color: #fff; text-shadow: none; }
+    -moz-selection { background: #FF4000; color: #fff; text-shadow: none; }
     selection { background: #333; color: #fff; text-shadow: none; }
 
     h1 { font-size: 30px; font-weight:lighter }
@@ -301,7 +301,7 @@ ul{list-style:none}
         height: 24px;
 		width:106px;
 		margin:24px;
-		background: url(../images/logo.png);
+		background: url(../images/logo-orange.png);
     }
 
 
@@ -324,7 +324,7 @@ ul{list-style:none}
     }
 	
 	#navigation li.current, #navigation li:hover {
-        border-top:#23abf1 solid 5px;
+        border-top:#FF4000 solid 5px;
 		height:67px;
 		padding-top:0px;			
     }
@@ -357,7 +357,7 @@ ul{list-style:none}
     #navigation ul {
 		position:absolute;
 		opacity: 0;		
-		background:#23abf1;
+		background:#FF4000;
 		width:160px;	
 		-webkit-transition: opacity .25s ease .1s;
 		-moz-transition: opacity .25s ease .1s;
@@ -428,7 +428,7 @@ ul{list-style:none}
 		padding: 0;
 		border-top:none;
 		position:relative;
-		background:#23abf1;
+		background:#FF4000;
 		border-left: 1px solid rgba(255, 255, 255, 0.2);
 		width:160px;				
 	}
@@ -598,7 +598,7 @@ ul{list-style:none}
 		background-color:#2b2b2b;
 		float:left;
 		border: none;
-		border-left:4px solid #23abf1;
+		border-left:4px solid #FF4000;
 		padding:20px 20px 10px 20px;
 		margin-bottom:50px;
 	}
@@ -632,7 +632,7 @@ ul{list-style:none}
 
 	h1.about {
 		font-size:48px;
-		color:#23abf1;
+		color:#FF4000;
 		font-family: 'TitilliumText22LThin', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 	}
 	
@@ -749,7 +749,7 @@ ul{list-style:none}
 		-ms-transform: rotate3d(0,1,0,180deg);
 		transform: rotate3d(0,1,0,180deg);
 		
-		background: #23abf1;
+		background: #FF4000;
 	}
 	
 	.user-img-1 { 
@@ -940,7 +940,7 @@ ul{list-style:none}
     }
 	
 	.pricing-table .level-max h1 {
-        color: #23abf1;
+        color: #FF4000;
 		margin-bottom:30px;
 		font-size:24px;
     }
@@ -953,10 +953,10 @@ ul{list-style:none}
         color: #333;
     }
     .pricing-table .level-max h6 {
-        color: #23abf1;
+        color: #FF4000;
     }
     .pricing-table h6 {
-        color: #23abf1;
+        color: #FF4000;
         font-size: 11px;
         margin: 0;
         font-weight: 200;
@@ -1028,7 +1028,7 @@ ul{list-style:none}
 	
 	
     .pricing-table-second h2 span {
-        color: #23abf1;
+        color: #FF4000;
         font-weight: 600;
 		font-size:40px;
 		vertical-align:top;
@@ -1037,7 +1037,7 @@ ul{list-style:none}
     
     
     .pricing-table-second h6 {
-        color: #23abf1;
+        color: #FF4000;
         font-size: 11px;
         margin: 0;
         font-weight: 200;
@@ -1065,7 +1065,7 @@ ul{list-style:none}
 	h1.fourofour {
 		font-size:280px;
 		text-align:center;
-		color:#23abf1;
+		color:#FF4000;
 	}
 	
 	h2.fourofour {
@@ -1108,7 +1108,7 @@ ul{list-style:none}
 		font-size: 12px;
 		text-align: left;
 		padding:0px 20px 20px 20px;
-		background-color:#23abf1;
+		background-color:#FF4000;
 		margin:10px;
 		line-height:72px;
 		height:140px;
@@ -1145,7 +1145,7 @@ ul{list-style:none}
 	}
 	
 	#subscribe button {
-		background: url("../images/newsletter-icon1.png") no-repeat scroll center center #23abf1;
+		background: url("../images/newsletter-icon1.png") no-repeat scroll center center #FF4000;
 		border: 0 none;
 		cursor: pointer;
 		height: 32px;
@@ -1205,7 +1205,7 @@ ul{list-style:none}
 		margin-bottom:10px;
 	}
 	.square-list li:hover, .check-list li:hover, .plus-list li:hover, .arrow-list li:hover, .cross-list li:hover, .star-list li:hover, .minus-list li:hover, .arrow2-list li:hover, .circle-list li:hover {
-		color:#23abf1;
+		color:#FF4000;
 		padding-left: 15px;
 		cursor:pointer;
 	}
@@ -1242,7 +1242,7 @@ ul{list-style:none}
 
     
 	.dropcap-blue {
-		color: #23abf1;
+		color: #FF4000;
 		float: left;
 		font-size: 60px;
 		margin-right: 6px;
@@ -1278,7 +1278,7 @@ ul{list-style:none}
 		text-transform: uppercase;
 		top: 5px;
 		margin-left:-3px;
-		background-color:#23abf1;
+		background-color:#FF4000;
 		line-height:23px;
 	}
 	
@@ -1311,7 +1311,7 @@ ul{list-style:none}
 	.meter > span {
 		display: block;
 		height: 100%;
-		background-color:#23abf1;
+		background-color:#FF4000;
 	}
 	
 	
@@ -1320,7 +1320,7 @@ ul{list-style:none}
 	
 	.btn-image {
 		padding:12px 15px 12px 45px;
-		background: url(../images/link.png) no-repeat 15px 10px #23abf1;
+		background: url(../images/link.png) no-repeat 15px 10px #FF4000;
 		color: #fff;
 		font-size:12px;
 		border-radius: 3px;
@@ -1339,7 +1339,7 @@ ul{list-style:none}
 	
 	.btn {
 		padding:12px 15px 12px 15px;
-		background: #23abf1;
+		background: #FF4000;
 		color: #fff;
 		font-size:12px;
 		border-radius: 3px;
@@ -1368,7 +1368,7 @@ ul{list-style:none}
 		
 	.btn.black:hover {
 		text-decoration: none;
-		background: #23abf1;
+		background: #FF4000;
 		color: #fff;
 	}
 	
@@ -1380,7 +1380,7 @@ ul{list-style:none}
 	
 	.btn-image.black:hover {
 		text-decoration: none;
-		background: url(../images/link.png) no-repeat 15px 10px #23abf1;
+		background: url(../images/link.png) no-repeat 15px 10px #FF4000;
 		color: #fff;
 	}
 	
@@ -1459,12 +1459,12 @@ ul{list-style:none}
 	
 	ul.simpleTabsNavigation li a:hover { 
 		background-color:#fff; 
-		color:#23abf1;
+		color:#FF4000;
 	}
 	
 	ul.simpleTabsNavigation li a.current { 
 		background:#fff; 
-		color:#23abf1; 
+		color:#FF4000; 
 	}
 	
 	div.simpleTabsContent { 
@@ -1589,7 +1589,7 @@ ul{list-style:none}
 		float:right;
 		height:31px;
 		width:30px;
-		background-color:#23ABF1;
+		background-color:#FF4000;
 		margin-left:0px;
 		z-index:9000;
 	}
@@ -1630,7 +1630,7 @@ ul{list-style:none}
         color: #757B7F;
     }
     .widget .lists li a:hover {
-        color: #23abf1;
+        color: #FF4000;
     }
 	
 	
@@ -1659,7 +1659,7 @@ ul{list-style:none}
     }
 	
 	.post h2:hover {
-        color:#23abf1;
+        color:#FF4000;
     }
     
     .post-details .author, .post-details .date, .post-details .tag, .post-details .comment {
@@ -1674,7 +1674,7 @@ ul{list-style:none}
     }
     
 	.post-details .author a:hover, .post-details .date a:hover, .post-details .tag a:hover, .post-details .comment a:hover {
-        color: #23abf1;
+        color: #FF4000;
     }
 	
 	.post-details .author {
@@ -1730,7 +1730,7 @@ ul{list-style:none}
     }
     
 	.post-content a {
-        color: #23abf1;
+        color: #FF4000;
 		font-size:12px
     }
     
@@ -1739,7 +1739,7 @@ ul{list-style:none}
     }
 	
 	.post-content h1 {
-		color:#23abf1;
+		color:#FF4000;
 		margin:25px 0px
 	}
 
@@ -1781,7 +1781,7 @@ ul{list-style:none}
     }
     .pagination a:hover {
         color: #fff;
-		background: #23abf1;
+		background: #FF4000;
 		border-radius: 2px;
 		-moz-border-radius: 2px;
 		-webkit-border-radius: 2px;
@@ -1791,7 +1791,7 @@ ul{list-style:none}
     }
     .pagination .prev a:hover {
         color: #fff;
-		background: #23abf1;
+		background: #FF4000;
 		border-radius: 2px;
 		-moz-border-radius: 2px;
 		-webkit-border-radius: 2px;
@@ -1801,7 +1801,7 @@ ul{list-style:none}
     }
     .pagination .next a:hover  {
         color: #fff;
-		background: #23abf1;
+		background: #FF4000;
 		border-radius: 2px;
 		-moz-border-radius: 2px;
 		-webkit-border-radius: 2px;
@@ -1866,7 +1866,7 @@ ul{list-style:none}
 		float:right;
     }
     .comment .author .reply:hover {
-        color: #23abf1;
+        color: #FF4000;
         font-size: 11px;
     }
     .comment .date {
@@ -1951,13 +1951,13 @@ ul{list-style:none}
 
 .filter a:hover{
 	text-decoration:none;
-	background:#23abf1;
+	background:#FF4000;
 	color:#FFF;
 	font-weight:lighter;
 }
 
 .filter .current a{
-	background:#23abf1;
+	background:#FF4000;
 	color:#FFF;
 }
 
@@ -2089,7 +2089,7 @@ ul{list-style:none}
 	.overlay .mask {
 	   opacity: 0;
 	   overflow:visible;
-	   background: #23abf1;	   
+	   background: #FF4000;	   
 	   -webkit-transition: all 0.4s ease-in-out;
 	   -moz-transition: all 0.4s ease-in-out;
 	   -o-transition: all 0.4s ease-in-out;
@@ -2099,7 +2099,7 @@ ul{list-style:none}
 	
 	.overlay:hover .mask {
 	   opacity: 1;
-	   background: #23abf1;
+	   background: #FF4000;
 	}
 	
 
@@ -2193,7 +2193,7 @@ ul{list-style:none}
 	}
 	
 	input:focus.btn-image {
-		background: url(../images/link.png) no-repeat 15px 10px #23abf1;
+		background: url(../images/link.png) no-repeat 15px 10px #FF4000;
 	}
 	
 	#message { 
@@ -2255,7 +2255,7 @@ ul{list-style:none}
         color: #757B7F;
     }
     .widget .categories li a:hover {
-        color: #23abf1;
+        color: #FF4000;
     }
 
 
@@ -2274,11 +2274,11 @@ ul{list-style:none}
 		margin-top:20px
     }
     #sidebar .twitter-post a {
-        color: #23abf1;
+        color: #FF4000;
     }
 	
     #sidebar .twitter-post a:hover {
-        color: #23abf1;
+        color: #FF4000;
     }
 
    
